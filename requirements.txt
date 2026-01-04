@@ -1,0 +1,3 @@
+langchain-ollama
+langchain
+#langgraph # --> only install if needed. Usually you get it as a dependency of langchain
