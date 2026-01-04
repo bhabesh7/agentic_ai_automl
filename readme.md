@@ -1,5 +1,7 @@
 Langchain, Langgraph , Ollama integration for running agentic workflows with local llm models (powered by Ollama)
 
+### Chapter 8 : NAS + AutoML book
+
 1. agentic_ollama_toolcalling.py --> demonstrates tool calling using llama3.1:8b ollama model
 2. agentic_ollama_plan.py --> demonstrates how llm model can plan for automl tasks
 3. agentic_ollama_plan_exec.py --> demonstrates how agent plans and then executes tasks (calls tools after planning)
